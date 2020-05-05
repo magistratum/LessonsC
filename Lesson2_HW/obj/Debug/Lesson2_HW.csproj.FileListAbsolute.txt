@@ -1,0 +1,7 @@
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\bin\Debug\Lesson2_HW.exe.config
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\bin\Debug\Lesson2_HW.exe
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\bin\Debug\Lesson2_HW.pdb
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\obj\Debug\Lesson2_HW.csprojAssemblyReference.cache
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\obj\Debug\Lesson2_HW.csproj.CoreCompileInputs.cache
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\obj\Debug\Lesson2_HW.exe
+D:\MAG\Project\C#\LessonC#\Lesson2_HW\obj\Debug\Lesson2_HW.pdb
