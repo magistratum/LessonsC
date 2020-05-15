@@ -1,0 +1,6 @@
+D:\MAG\Обучение\LessonsC\TwoDimenArray\bin\Debug\TwoDimenArray.dll
+D:\MAG\Обучение\LessonsC\TwoDimenArray\bin\Debug\TwoDimenArray.pdb
+D:\MAG\Обучение\LessonsC\TwoDimenArray\obj\Debug\TwoDimenArray.csprojAssemblyReference.cache
+D:\MAG\Обучение\LessonsC\TwoDimenArray\obj\Debug\TwoDimenArray.csproj.CoreCompileInputs.cache
+D:\MAG\Обучение\LessonsC\TwoDimenArray\obj\Debug\TwoDimenArray.dll
+D:\MAG\Обучение\LessonsC\TwoDimenArray\obj\Debug\TwoDimenArray.pdb

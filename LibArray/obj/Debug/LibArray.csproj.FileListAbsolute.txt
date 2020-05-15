@@ -1,0 +1,6 @@
+D:\MAG\Обучение\LessonsC\LibArray\bin\Debug\LibArray.dll
+D:\MAG\Обучение\LessonsC\LibArray\bin\Debug\LibArray.pdb
+D:\MAG\Обучение\LessonsC\LibArray\obj\Debug\LibArray.csproj.CoreCompileInputs.cache
+D:\MAG\Обучение\LessonsC\LibArray\obj\Debug\LibArray.dll
+D:\MAG\Обучение\LessonsC\LibArray\obj\Debug\LibArray.pdb
+D:\MAG\Обучение\LessonsC\LibArray\obj\Debug\LibArray.csprojAssemblyReference.cache
