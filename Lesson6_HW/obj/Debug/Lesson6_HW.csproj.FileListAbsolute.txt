@@ -1,0 +1,7 @@
+D:\MAG\Обучение\LessonsC\Lesson6_HW\bin\Debug\Lesson6_HW.exe.config
+D:\MAG\Обучение\LessonsC\Lesson6_HW\bin\Debug\Lesson6_HW.exe
+D:\MAG\Обучение\LessonsC\Lesson6_HW\bin\Debug\Lesson6_HW.pdb
+D:\MAG\Обучение\LessonsC\Lesson6_HW\obj\Debug\Lesson6_HW.csprojAssemblyReference.cache
+D:\MAG\Обучение\LessonsC\Lesson6_HW\obj\Debug\Lesson6_HW.csproj.CoreCompileInputs.cache
+D:\MAG\Обучение\LessonsC\Lesson6_HW\obj\Debug\Lesson6_HW.exe
+D:\MAG\Обучение\LessonsC\Lesson6_HW\obj\Debug\Lesson6_HW.pdb
