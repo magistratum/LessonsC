@@ -1,0 +1,9 @@
+Устанавливать в следующем порядке:
+
+1.	PCS_7_V9.0_SP1
+2.	SIMATIC PCS7 Advanced Process Library (APL) V9.0 SP1 Upd1
+3.	SIMATIC PCS7 Basis Library V9.0 SP1 Upd1
+4.	SIMATIC PCS7 Basis Faceplates V9.0 SP1 Upd1
+5.	AS-OS Engineering V9.0 SP1 Upd1
+6.	CFC V9.0 SP1 Upd2
+7.	PCS7v9.0SP1_WinCCv7.4SP1Upd4_Rus_Scad
