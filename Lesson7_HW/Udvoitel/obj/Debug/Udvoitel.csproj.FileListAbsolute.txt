@@ -1,0 +1,9 @@
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\bin\Debug\Udvoitel.exe.config
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\bin\Debug\Udvoitel.exe
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\bin\Debug\Udvoitel.pdb
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.cache
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\Udvoitel.exe
+D:\MAG\Обучение\LessonsC\Lesson7_HW\Udvoitel\obj\Debug\Udvoitel.pdb

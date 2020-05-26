@@ -1,0 +1,10 @@
+D:\MAG\Обучение\LessonsC\Lesson7_HW\bin\Debug\Lesson7_HW.exe.config
+D:\MAG\Обучение\LessonsC\Lesson7_HW\bin\Debug\Lesson7_HW.exe
+D:\MAG\Обучение\LessonsC\Lesson7_HW\bin\Debug\Lesson7_HW.pdb
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.csprojAssemblyReference.cache
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.Form1.resources
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.Properties.Resources.resources
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.csproj.GenerateResource.cache
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.csproj.CoreCompileInputs.cache
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.exe
+D:\MAG\Обучение\LessonsC\Lesson7_HW\obj\Debug\Lesson7_HW.pdb
